@@ -6,7 +6,9 @@
     <e p="C:\Users\matho\OneDrive\Desktop\scripting\Scripting-spring2019\Scripting3" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Parallaxing.cs" t="Include" />
         <e p="Standard Assets" t="Include">
           <e p="2D" t="Include">
             <e p="Scripts" t="Include">
