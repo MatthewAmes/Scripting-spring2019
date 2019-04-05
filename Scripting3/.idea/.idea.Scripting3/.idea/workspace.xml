@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dffc3969-434f-4708-bc85-c6d6f328ba8a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripting3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripting3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,10 +59,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Tiling.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+            <state relative-caret-position="-514">
+              <caret selection-end-line="77" selection-end-column="1" />
               <folding>
-                <marker date="1554352390115" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554352390115" expanded="true" signature="6:78" ph="..." />
                 <marker date="1554352390115" expanded="true" signature="160:1988" ph="{...}" />
                 <marker date="1554352390115" expanded="true" signature="399:453" ph="{...}" />
                 <marker date="1554352390115" expanded="true" signature="510:625" ph="{...}" />
@@ -166,12 +165,12 @@
       <updated>1553655903927</updated>
       <workItem from="1553655917180" duration="863000" />
       <workItem from="1554228100946" duration="6615000" />
-      <workItem from="1554347129936" duration="5204000" />
+      <workItem from="1554347129936" duration="6242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12682000" />
+    <option name="totallyTimeSpent" value="13720000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -275,10 +274,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Tiling.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        <state relative-caret-position="-514">
+          <caret selection-end-line="77" selection-end-column="1" />
           <folding>
-            <marker date="1554352390115" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554352390115" expanded="true" signature="6:78" ph="..." />
             <marker date="1554352390115" expanded="true" signature="160:1988" ph="{...}" />
             <marker date="1554352390115" expanded="true" signature="399:453" ph="{...}" />
             <marker date="1554352390115" expanded="true" signature="510:625" ph="{...}" />
