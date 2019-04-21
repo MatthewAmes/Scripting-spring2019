@@ -17,6 +17,7 @@
         </e>
         <e p="Parallaxing.cs" t="Include" />
         <e p="Parallaxing2.cs" t="Include" />
+        <e p="pivot.cs" t="Include" />
         <e p="Standard Assets" t="Include">
           <e p="2D" t="Include">
             <e p="Scripts" t="Include">

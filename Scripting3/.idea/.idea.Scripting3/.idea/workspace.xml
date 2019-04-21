@@ -4,6 +4,8 @@
     <list default="true" id="dffc3969-434f-4708-bc85-c6d6f328ba8a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripting3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripting3/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripting3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripting3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AstronautSpriteAtlas.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AstronautSpriteAtlas.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,10 +82,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Weapon.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="15">
               <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
               <folding>
                 <marker date="1555048279183" expanded="false" signature="6:44" ph="..." />
@@ -102,6 +104,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/pivot.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1555643344342" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555643344342" expanded="true" signature="115:236" ph="{...}" />
+                <marker date="1555643344342" expanded="true" signature="165:172" ph="{...}" />
+                <marker date="1555643344342" expanded="true" signature="227:234" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -109,6 +125,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/pivot.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Parallaxing.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tiling.cs" root0="FORCE_HIGHLIGHTING" />
@@ -123,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="189" />
     <option name="y" value="37" />
     <option name="width" value="974" />
@@ -135,14 +152,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -194,11 +211,12 @@
       <workItem from="1554347129936" duration="7026000" />
       <workItem from="1554949039759" duration="5000" />
       <workItem from="1555386207699" duration="806000" />
+      <workItem from="1555643490438" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15315000" />
+    <option name="totallyTimeSpent" value="15912000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,9 +228,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="189" y="37" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19474836" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09701493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -322,7 +340,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Weapon.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="15">
           <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
           <folding>
             <marker date="1555048279183" expanded="false" signature="6:44" ph="..." />
@@ -336,6 +354,18 @@
             <marker date="1555048279183" expanded="true" signature="598:658" ph="{...}" />
             <marker date="1555048279183" expanded="true" signature="683:1301" ph="{...}" />
             <marker date="1555048279183" expanded="true" signature="1150:1298" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/pivot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1555643344342" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555643344342" expanded="true" signature="115:236" ph="{...}" />
+            <marker date="1555643344342" expanded="true" signature="165:172" ph="{...}" />
+            <marker date="1555643344342" expanded="true" signature="227:234" ph="{...}" />
           </folding>
         </state>
       </provider>
