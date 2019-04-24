@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dffc3969-434f-4708-bc85-c6d6f328ba8a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripting3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripting3/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripting3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripting3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AstronautSpriteAtlas.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AstronautSpriteAtlas.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-    </list>
+    <list default="true" id="dffc3969-434f-4708-bc85-c6d6f328ba8a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +13,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
+            <state relative-caret-position="1035">
               <caret line="70" column="60" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
               <folding>
-                <marker date="1534844733000" expanded="false" signature="6:32" ph="..." />
                 <marker date="1534844733000" expanded="true" signature="67:5059" ph="{...}" />
                 <marker date="1534844733000" expanded="true" signature="124:5057" ph="{...}" />
                 <marker date="1534844733000" expanded="true" signature="1555:1837" ph="{...}" />
@@ -44,10 +38,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Parallaxing.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
+            <state relative-caret-position="705">
               <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
               <folding>
-                <marker date="1554257804249" expanded="false" signature="6:44" ph="..." />
                 <marker date="1554257804249" expanded="true" signature="87:1128" ph="{...}" />
                 <marker date="1554257804249" expanded="true" signature="279:317" ph="{...}" />
                 <marker date="1554257804249" expanded="true" signature="366:566" ph="{...}" />
@@ -62,10 +55,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Tiling.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
+            <state relative-caret-position="765">
               <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
               <folding>
-                <marker date="1554431834371" expanded="false" signature="6:44" ph="..." />
                 <marker date="1554431834371" expanded="true" signature="127:2700" ph="{...}" />
                 <marker date="1554431834371" expanded="true" signature="552:604" ph="{...}" />
                 <marker date="1554431834371" expanded="true" signature="653:766" ph="{...}" />
@@ -85,10 +77,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Weapon.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="30">
               <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
               <folding>
-                <marker date="1555048279183" expanded="false" signature="6:44" ph="..." />
                 <marker date="1555048279183" expanded="true" signature="82:1303" ph="{...}" />
                 <marker date="1555048279183" expanded="true" signature="264:387" ph="{...}" />
                 <marker date="1555048279183" expanded="true" signature="335:384" ph="{...}" />
@@ -104,15 +95,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/pivot.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1555643344342" expanded="false" signature="6:78" ph="..." />
                 <marker date="1555643344342" expanded="true" signature="115:236" ph="{...}" />
                 <marker date="1555643344342" expanded="true" signature="165:172" ph="{...}" />
                 <marker date="1555643344342" expanded="true" signature="227:234" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/GameMaster.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="189" />
     <option name="y" value="37" />
     <option name="width" value="974" />
@@ -154,12 +155,12 @@
     <panes>
       <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -212,11 +213,12 @@
       <workItem from="1554949039759" duration="5000" />
       <workItem from="1555386207699" duration="806000" />
       <workItem from="1555643490438" duration="597000" />
+      <workItem from="1555997170956" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15912000" />
+    <option name="totallyTimeSpent" value="15964000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,9 +230,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09701493" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.047974415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -279,10 +281,9 @@
     <entry file="file://$PROJECT_DIR$/Assets/Parallaxing2.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
+        <state relative-caret-position="1035">
           <caret line="70" column="60" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
           <folding>
-            <marker date="1534844733000" expanded="false" signature="6:32" ph="..." />
             <marker date="1534844733000" expanded="true" signature="67:5059" ph="{...}" />
             <marker date="1534844733000" expanded="true" signature="124:5057" ph="{...}" />
             <marker date="1534844733000" expanded="true" signature="1555:1837" ph="{...}" />
@@ -303,10 +304,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Parallaxing.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
+        <state relative-caret-position="705">
           <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
           <folding>
-            <marker date="1554257804249" expanded="false" signature="6:44" ph="..." />
             <marker date="1554257804249" expanded="true" signature="87:1128" ph="{...}" />
             <marker date="1554257804249" expanded="true" signature="279:317" ph="{...}" />
             <marker date="1554257804249" expanded="true" signature="366:566" ph="{...}" />
@@ -319,10 +319,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Tiling.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
+        <state relative-caret-position="765">
           <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
           <folding>
-            <marker date="1554431834371" expanded="false" signature="6:44" ph="..." />
             <marker date="1554431834371" expanded="true" signature="127:2700" ph="{...}" />
             <marker date="1554431834371" expanded="true" signature="552:604" ph="{...}" />
             <marker date="1554431834371" expanded="true" signature="653:766" ph="{...}" />
@@ -340,10 +339,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Weapon.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="30">
           <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
           <folding>
-            <marker date="1555048279183" expanded="false" signature="6:44" ph="..." />
             <marker date="1555048279183" expanded="true" signature="82:1303" ph="{...}" />
             <marker date="1555048279183" expanded="true" signature="264:387" ph="{...}" />
             <marker date="1555048279183" expanded="true" signature="335:384" ph="{...}" />
@@ -362,10 +360,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1555643344342" expanded="false" signature="6:78" ph="..." />
             <marker date="1555643344342" expanded="true" signature="115:236" ph="{...}" />
             <marker date="1555643344342" expanded="true" signature="165:172" ph="{...}" />
             <marker date="1555643344342" expanded="true" signature="227:234" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameMaster.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
           </folding>
         </state>
       </provider>

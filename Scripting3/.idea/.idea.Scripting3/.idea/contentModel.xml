@@ -15,6 +15,7 @@
             <e p="WaveSpawner.cs" t="Include" />
           </e>
         </e>
+        <e p="GameMaster.cs" t="Include" />
         <e p="Parallaxing.cs" t="Include" />
         <e p="Parallaxing2.cs" t="Include" />
         <e p="pivot.cs" t="Include" />
